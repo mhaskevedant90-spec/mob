@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "RER",
+    "IRI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "id": "mobfusion:fusion_ball",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "mobfusion",
+  "version": "${version}",
+  "name": "Mob Fusion",
+  "description": "Fuse any two mobs in a Fusion Press, fight the hybrids, take their abilities and capture them in Fusion Balls.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.mobfusion.MobFusion"],
+    "client": ["com.mobfusion.client.MobFusionClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

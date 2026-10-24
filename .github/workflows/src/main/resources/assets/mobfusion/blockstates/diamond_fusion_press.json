@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,pressing=false": {
+      "model": "mobfusion:block/diamond_fusion_press"
+    },
+    "facing=north,pressing=true": {
+      "model": "mobfusion:block/diamond_fusion_press_pressing"
+    },
+    "facing=east,pressing=false": {
+      "model": "mobfusion:block/diamond_fusion_press",
+      "y": 90
+    },
+    "facing=east,pressing=true": {
+      "model": "mobfusion:block/diamond_fusion_press_pressing",
+      "y": 90
+    },
+    "facing=south,pressing=false": {
+      "model": "mobfusion:block/diamond_fusion_press",
+      "y": 180
+    },
+    "facing=south,pressing=true": {
+      "model": "mobfusion:block/diamond_fusion_press_pressing",
+      "y": 180
+    },
+    "facing=west,pressing=false": {
+      "model": "mobfusion:block/diamond_fusion_press",
+      "y": 270
+    },
+    "facing=west,pressing=true": {
+      "model": "mobfusion:block/diamond_fusion_press_pressing",
+      "y": 270
+    }
+  }
+}

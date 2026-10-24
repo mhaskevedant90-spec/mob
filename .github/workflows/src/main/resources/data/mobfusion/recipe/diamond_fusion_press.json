@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DPD",
+    "DPD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "item": "mobfusion:fusion_press"
+    }
+  },
+  "result": {
+    "id": "mobfusion:diamond_fusion_press",
+    "count": 2
+  }
+}
